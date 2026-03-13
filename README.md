@@ -14,7 +14,6 @@ This is a simple project to host my Firefox Launcher tool.
 \- Easy to use
 
 
-
 \## Website
 
 Visit: https://aoe.github.io
